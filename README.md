@@ -5,7 +5,7 @@ This is a Flask app that generates images of a specified width, height, and colo
 
 Installation
 Clone the repository:
-git clone https://github.com/username/flask-image-generator.git
+git clone 
 
 Change into the project directory:
 cd flask-image-generator
