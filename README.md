@@ -4,7 +4,7 @@ Flask Image Generator
 This is a Flask app that generates images of a specified width, height, and color in JPEG, PNG, or GIF format.
 
 Installation
-Clone the repository:
+Clone the repository:https://github.com/Prasan-S-Guggari/Flask_Assignment.git
 git clone 
 
 Change into the project directory:
